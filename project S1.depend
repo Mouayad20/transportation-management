@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1577173031 source:m:\mouayad\projects\projects second  year\project s1\main.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<iomanip>
+	<fstream>
+
